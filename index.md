@@ -1,7 +1,9 @@
 ### Note
 All figures are percentages. 
-E.g. 
+E.g.
+
 * If 'Company X' has a value of 5.09, it means the share price for Company X *increased* by 5.09%
+
 * If 'Company Y' has a value of -1.4, it means the share price for Company Y *decreased* by 1.4%
 
 ### January 2017
