@@ -1,8 +1,8 @@
 ### Note
 All figures are percentages. 
 E.g. 
-- If 'Company X' has a value of 5.09, it means the share price for Company X *increased* by 5.09%
-- If 'Company Y' has a value of -1.4, it means the share price for Company Y *decreased* by 1.4%
+* If 'Company X' has a value of 5.09, it means the share price for Company X *increased* by 5.09%
+* If 'Company Y' has a value of -1.4, it means the share price for Company Y *decreased* by 1.4%
 
 ### January 2017
 <iframe id="datawrapper-chart-YzeJK" src="//datawrapper.dwcdn.net/YzeJK/3/" frameborder="0" allowtransparency="true" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" oallowfullscreen="oallowfullscreen" msallowfullscreen="msallowfullscreen" width="100%" height="425"></iframe><script type="text/javascript">if("undefined"==typeof window.datawrapper)window.datawrapper={};window.datawrapper["YzeJK"]={},window.datawrapper["YzeJK"].embedDeltas={"100":508,"200":439,"300":439,"400":425,"500":425,"600":425,"700":425,"800":425,"900":425,"1000":425},window.datawrapper["YzeJK"].iframe=document.getElementById("datawrapper-chart-YzeJK"),window.datawrapper["YzeJK"].iframe.style.height=window.datawrapper["YzeJK"].embedDeltas[Math.min(1e3,Math.max(100*Math.floor(window.datawrapper["YzeJK"].iframe.offsetWidth/100),100))]+"px",window.addEventListener("message",function(a){if("undefined"!=typeof a.data["datawrapper-height"])for(var b in a.data["datawrapper-height"])if("YzeJK"==b)window.datawrapper["YzeJK"].iframe.style.height=a.data["datawrapper-height"][b]+"px"});</script>
